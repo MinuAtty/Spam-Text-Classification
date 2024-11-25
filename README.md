@@ -1,1 +1,1 @@
-# Spam-Text-Classification
+# Spam Text Classification Application with Streamlit
